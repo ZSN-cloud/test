@@ -1,3 +1,1 @@
-AAAAAA
-BBBBB
-C
+hello world in b2
